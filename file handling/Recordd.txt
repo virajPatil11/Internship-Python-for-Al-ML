@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep  2 14:44:25 2021
+
+@author: viraj
+"""
+
+Viraj,56,5,5,4,4
+Rutik,45,56,76,54
+rutik,43,34,65,64
