@@ -15,7 +15,7 @@ This repository is having all of the code which i'm learning and doing in this I
 
 # Project made in this internship
 
-1) INVENTORY MANAGEMENT SYSTEM
+### 1) INVENTORY MANAGEMENT SYSTEM
 
 I've made an inventory management system which is working on NoSQL database.
 1) I've used JSON file system for it.
@@ -23,7 +23,7 @@ I've made an inventory management system which is working on NoSQL database.
 3) purchase can be done.
 
 
-## I have added 6 features per product
+# I have added 6 features per product
 
 1) Product
 2) Name of product
@@ -32,7 +32,7 @@ I've made an inventory management system which is working on NoSQL database.
 5) Brand Name of product
 6) Expiry date
 
-### My project can do the following things
+# My project can do the following things
 
 1) Generate Bills
 2) Update Inventory
